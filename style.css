@@ -1,0 +1,41 @@
+body{
+    background-color:black;
+    scroll-behavior:smooth;
+}
+#header-title a{
+    color: white;
+}
+#header-title a:hover{
+    color:black;
+}
+#main-img{
+    background: url("https://assets.devry.edu/blog/im/learning-the-language-of-code-lg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+
+}
+#About{
+    margin-top: -300px;
+}
+#About span{
+    padding: 10px 20px;
+}
+#About hr{
+ border-width: 2px;
+ margin-top: 6px;
+}
+#Skills span{
+    padding: 10px 20px;
+}
+#Skills hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+#Experience span{
+    padding: 10px 20px;
+}
+#Experience hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
